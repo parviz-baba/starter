@@ -1,6 +1,5 @@
 public class MyFirstApp {
     public static void main(String[] args) {
-        System.out.print("Bir dəfə yaz, ");
-        System.out.println("hər yerdə işlət!");
+        System.out.print("Bir dəfə yaz, hər yerdə işlət!");
     }
 }
